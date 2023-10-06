@@ -2,9 +2,9 @@
 
 ###### MySQL Workbench
 
-###### MySQL React
+###### React
 
-###### MySQL Node and NPM
+###### Node and NPM
 
 ###### Steps
 
