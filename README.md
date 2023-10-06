@@ -1,14 +1,14 @@
 ## Prerequisites
 
-### MySQL Workbench
+###### MySQL Workbench
 
-### MySQL React
+###### MySQL React
 
-### MySQL Node and NPM
+###### MySQL Node and NPM
 
-## Steps
+###### Steps
 
-### back
+###### back
 
 1-Configure a local connection (some variables like password, user, host, aot. are in the file dbConfig.js), as below: ![image](https://github.com/andreRochaDTI/CrudAgricultor/assets/126532430/2f5aa6be-c439-4554-a10e-13546c54e4db)
 
